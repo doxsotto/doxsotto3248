@@ -1,0 +1,7 @@
+.profile-img {
+    width: 10px; /* Set a specific width */
+    height: 10px; /* Set a specific height */
+    object-fit: cover; /* Ensure images cover the box without distortion */
+    display: block; /* Center the image */
+    margin: 0 auto; /* Center the image */
+}
